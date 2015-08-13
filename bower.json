@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-slider-knockout-binding",
+  "main": "bootstrap-slider-knockout-binding.js",
+  "version": "0.0.0",
+  "homepage": "http://cosminstefanxp.github.io/bootstrap-slider-knockout-binding/",
+  "authors": [
+    "Cosmin Stefan-Dobrin <cosminstefanxp@gmail.com>"
+  ],
+  "description": "A knockout binding for the Bootstrap Slider",
+  "keywords": [
+    "bootstrap",
+    "slider",
+    "knockout",
+    "ko",
+    "binding",
+    "mvvm"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
